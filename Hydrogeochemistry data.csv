@@ -1,0 +1,59 @@
+"HYDROGEOCHEMICAL DATABASE  —  Benin Formation Groundwater, Delta State  (compiled from published sources)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GC_ID,Site / Sample ID,Region,"Sample
+Type",Season,Lat (°N),Lon (°E),pH,"EC
+(?S/cm)","TDS
+(mg/L)","Temp
+(°C)","TH
+(mg/L)","Turbidity
+(NTU)","Na?
+(mg/L)","K?
+(mg/L)","Ca²?
+(mg/L)","Mg²?
+(mg/L)","Cl?
+(mg/L)","HCO??
+(mg/L)","SO?²?
+(mg/L)","NO??
+(mg/L)","PO?³?
+(mg/L)","Fe total
+(mg/L)","Mn
+(mg/L)","Zn
+(mg/L)","Pb
+(mg/L)","Cd
+(mg/L)","Water
+Facies","Aquifer
+Zone","Data
+Quality",Source,
+GC-001,Abraka-BH-1,Delta Central,BH,Dry,5.812,6.095,6.80,285.00,182.00,27.50,65.00,0.80,12.50,2.10,18.40,5.20,15.80,22.40,8.50,3.20,0.15,0.18,0.04,0.01,,,Ca-Mg-Cl,Zone II,A,Akpoborie & Efobo 2014,
+GC-002,Abraka-BH-2,Delta Central,BH,Dry,5.814,6.098,6.50,268.00,171.00,27.20,58.00,1.10,10.80,1.80,16.20,4.90,13.50,20.10,7.20,2.80,0.12,0.15,0.05,0.02,,,Ca-Cl,Zone II,A,Akpoborie & Efobo 2014,
+GC-003,Abraka-DW-1,Delta Central,DW,Dry,5.810,6.092,5.90,145.00,85.00,28.10,42.00,2.50,8.50,1.50,12.80,3.80,22.50,14.20,5.80,1.90,0.08,0.22,0.03,0.01,,,Ca-Cl,Zone I,A,Akpoborie & Efobo 2014,
+GC-004,Abraka-DW-2,Delta Central,DW,Dry,5.808,6.096,5.70,120.00,72.00,28.30,38.00,3.20,7.20,1.20,10.50,3.20,28.40,12.10,4.50,1.50,0.06,0.28,0.02,0.01,,,Na-Cl,Zone I,A,Akpoborie & Efobo 2014,
+GC-005,Abraka-BH wet,Delta Central,BH,Wet,5.812,6.095,6.40,210.00,135.00,26.80,52.00,1.50,9.80,1.80,14.50,4.20,12.80,18.50,6.50,2.50,0.10,0.12,0.04,0.02,,,Ca-Cl,Zone II,A,Akpoborie & Efobo 2014,
+GC-006,Effurun-DW-1,Delta South,DW,Dry,5.499,5.727,7.20,285.00,185.00,28.50,72.00,1.80,8.50,4.20,6.13,4.09,23.74,8.20,1.27,5.80,0.25,0.38,0.06,0.04,,0.003,Na-Cl-Ca,Zone I,A,Akpoborie et al. 2014,
+GC-007,Effurun-DW-2,Delta South,DW,Dry,5.501,5.729,7.00,265.00,172.00,28.20,68.00,2.10,7.80,3.90,5.80,3.80,21.50,7.80,1.15,4.90,0.22,0.35,0.05,0.04,,0.003,Ca-Mg-Cl,Zone I,A,Akpoborie et al. 2014,
+GC-008,Warri-DW-1,Delta South,DW,Dry,5.517,5.750,7.10,295.00,193.00,28.50,75.00,2.50,4.89,3.37,6.13,4.09,23.74,8.20,1.27,6.20,0.22,0.36,0.05,0.04,0.005,0.003,Na-Cl,Zone I,A,"Akpoborie,Aweto 2014",
+GC-009,Warri-DW-2,Delta South,DW,Dry,5.520,5.754,6.90,278.00,181.00,28.40,70.00,2.20,4.50,3.10,5.90,3.80,21.80,7.50,1.10,5.80,0.20,0.32,0.04,0.04,,,Na-Cl,Zone I,A,"Akpoborie,Aweto 2014",
+GC-010,Agbarho-DW-1,Delta South,DW,Dry,5.545,5.762,4.20,85.00,39.60,27.80,22.00,3.50,6.80,2.50,3.20,2.10,18.50,5.80,0.85,2.20,0.05,0.08,0.02,,,,Mg-Na-Cl,Zone I,A,Akpoborie & Aweto 2012,
+GC-011,Agbarho-DW-2,Delta South,DW,Wet,5.548,5.764,3.80,62.00,28.00,26.50,18.00,4.80,5.20,1.80,2.50,1.60,15.80,4.20,0.62,1.80,0.04,0.06,0.01,,,,Na-Cl,Zone I,A,Akpoborie & Aweto 2012,
+GC-012,Delta Central BH avg,Delta Central,BH,–,5.750,6.100,6.80,215.00,138.00,27.90,55.00,1.50,10.50,2.20,14.80,4.50,16.20,18.80,6.80,3.50,0.18,0.22,0.04,0.02,,,Ca-Cl mixed,Zone II,B,Omorieva et al. 2024,
+GC-013,Delta Central BH avg 2,Delta Central,BH,–,5.755,6.095,6.50,195.00,125.00,27.50,48.00,1.20,9.80,2.00,13.50,4.00,14.80,16.50,6.00,3.00,0.15,0.18,0.03,0.02,,,Ca-Cl,Zone II,B,Omorieva et al. 2024,
+GC-014,Delta Central well avg,Delta Central,Well,Dry,5.760,6.090,6.30,280.00,180.00,28.00,65.00,2.00,15.50,2.80,12.00,3.50,18.50,22.00,8.50,4.20,0.25,0.35,0.05,0.03,,,Ca-Mg-Cl,Zone II,B,Omorieva et al. 2024,
+GC-015,Ughelli South BH,Delta South,BH,Dry,5.468,5.853,6.20,195.00,125.00,28.00,48.00,1.50,8.50,1.80,11.20,3.50,14.50,16.80,5.20,2.80,0.15,0.18,0.03,,,,Ca-Cl,Zone II,B,Izeze et al. 2015,
+GC-016,Ughelli South BH 2,Delta South,BH,Wet,5.470,5.856,5.90,168.00,108.00,27.50,40.00,1.90,7.20,1.50,9.80,3.00,12.50,14.20,4.50,2.20,0.12,0.14,0.03,,,,Ca-Cl,Zone II,B,Izeze et al. 2015,
+GC-017,Oleh-BH-1 dry,Delta South,BH,Dry,5.459,6.203,4.90,125.00,82.00,27.80,35.00,2.50,8.80,1.80,10.50,3.20,18.50,12.00,4.80,2.50,0.10,0.15,0.02,,,,Ca-Cl,Zone II,A,Eze et al. 2020,
+GC-018,Oleh-BH-1 wet,Delta South,BH,Wet,5.459,6.203,5.20,112.00,72.00,27.00,28.00,3.20,7.50,1.50,8.80,2.80,16.20,10.50,4.00,2.00,0.08,0.12,0.02,,,,Ca-Cl,Zone II,A,Eze et al. 2020,
+GC-019,Oleh-HDW-1,Delta South,DW,Dry,5.462,6.207,5.50,145.00,95.00,28.20,42.00,4.50,10.20,2.20,12.50,3.80,22.50,15.00,6.50,3.20,0.15,0.22,0.03,,,,Ca-Cl,Zone I,A,Eze et al. 2020,
+GC-020,Oleh-HDW-2,Delta South,DW,Wet,5.463,6.209,6.20,95.00,62.00,27.20,28.00,5.80,8.50,1.50,8.80,2.80,18.50,12.50,4.20,2.00,0.08,0.16,0.02,,,,Na-Cl,Zone I,A,Eze et al. 2020,
+GC-021,Warri Facies F1,Delta South,Mixed,–,5.518,5.752,7.00,320.00,210.00,28.00,80.00,2.00,18.50,5.20,8.50,4.20,42.50,10.20,1.50,6.80,0.35,0.48,0.08,0.05,,0.01,Na-K-Cl (saline influence),Zone I–II,B,Olobaniyi & Owoyemi 2006,
+GC-022,Warri Facies F2,Delta South,Mixed,–,5.516,5.750,6.80,180.00,115.00,27.50,55.00,1.50,5.20,1.80,10.50,4.80,12.50,18.50,2.50,4.20,0.22,0.15,0.04,,,,Ca-Mg-HCO3 (recharge),Zone II,B,Olobaniyi & Owoyemi 2006,
+GC-023,Asaba-BH deep,Delta North,BH,Dry,6.200,6.742,5.80,165.00,105.00,27.20,42.00,1.20,8.50,1.80,10.20,3.50,12.80,16.50,4.80,2.50,0.12,0.15,0.03,,,,Ca-Cl,Zone II–III,B,Akpoborie et al. 2011 inferred,
+GC-024,Asaba-BH shallow,Delta North,BH,Dry,6.198,6.738,5.50,142.00,90.00,27.50,38.00,1.80,7.20,1.50,8.80,3.00,15.50,14.20,4.20,2.20,0.10,0.18,0.02,,,,Ca-Cl,Zone I–II,B,Akpoborie et al. 2011 inferred,
+GC-025,Nsukwa BH,Delta Central,BH,Dry,5.700,6.320,6.20,175.00,112.00,27.80,45.00,1.50,9.20,1.90,11.50,3.80,14.50,18.80,6.20,3.00,0.14,0.18,0.04,,,,Ca-Cl,Zone II,A,Ofomola et al. 2024,
+GC-026,Orerokpe BH avg,Delta Central,BH,–,5.638,5.892,6.50,195.00,125.00,27.50,52.00,1.20,10.50,2.20,12.80,4.20,15.50,19.50,6.80,3.20,0.18,0.22,0.04,,,,Ca-Cl,Zone II,B,Aweto & Akpoborie 2015 inferred,
+GC-027,Asaba-iron-rich-deep,Delta North,BH,Dry,6.195,6.730,5.20,285.00,185.00,27.00,68.00,3.50,9.20,2.00,12.50,4.00,18.50,16.50,5.80,2.80,2.80,0.12,0.05,,,,Fe-Ca-Cl (iron-rich),Zone III,A,Akpoborie et al. 2011,
+GC-028,Asaba-iron-rich 2,Delta North,BH,Wet,6.193,6.728,4.80,252.00,162.00,26.80,58.00,4.20,8.50,1.80,10.80,3.50,16.20,14.80,4.80,2.20,3.20,0.15,0.04,,,,Fe-Ca-Cl (iron-rich),Zone III,A,Akpoborie et al. 2011,
+GC-029,Benin Fm regional avg (N),Delta North,Regional,–,6.100,6.400,5.80,185.00,119.00,27.50,48.00,1.80,9.00,1.90,11.50,3.80,14.50,16.50,5.50,2.80,0.15,0.18,0.03,,,,Ca-Cl,Zone II,C,Regional compilation,
+GC-030,Benin Fm regional avg (C),Delta Central,Regional,–,5.800,6.000,6.50,220.00,142.00,27.80,55.00,1.50,10.80,2.20,13.50,4.20,16.50,19.50,6.80,3.50,0.18,0.22,0.04,,,,Ca-Cl,Zone II,C,Regional compilation,
+GC-031,Benin Fm regional avg (S),Delta South,Regional,–,5.450,5.750,5.50,165.00,108.00,27.50,42.00,2.20,8.50,1.80,10.20,3.50,22.50,14.50,5.20,3.00,0.12,0.15,0.03,,,,Na-Ca-Cl,Zone II,C,Regional compilation,
+REF-WHO,WHO Guideline (2017),–,Reference,–,,,,,,,,,,,,,250,500,400,250,50,5,0.3,0.4,5,0.01,0.003,–,–,–,WHO 2017
+REF-SON,SON Standard 2015,–,Reference,–,,,6.5–8.5,500,500,25–30,150,5,200,12,75,50,250,100,100,50,5,0.3,0.2,3,0.01,0.003,–,–,–,SON 2015,
+?  Quality: A=analytical/lab confirmed; B=VES-inferred or limited sampling; C=regional average. All concentrations in mg/L unless noted. WHO/SON reference rows in italics.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

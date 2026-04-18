@@ -1,0 +1,43 @@
+SPATIAL PARAMETER GRID  —  Benin Formation Aquifer Properties by Location  (for 3D model uncertainty reduction),,,,,,,,,,,,,,,,,,,,,,,
+Node_ID,Well/VES Name,Region,Sub-region,Lat (°N),Lon (°E),Data Type,Formation,"Zone I
+Base (m)","Zone II
+Base (m)","Zone III
+Base (m)","Net Sand
+Zone II (m)","N/G
+Zone II (%)","K Zone II
+(m/day)","T Zone II
+(m²/day)",SWL (m),"Aquifer
+Type","Geochem
+Facies",pH,"TDS
+(mg/L)","Fe
+(mg/L)","Uncertainty
+Rank (1–5)",Data Gaps,Source(s)
+SP-001,Asaba-2-BH,Delta North,NE Delta N,6.197,6.725,BH+Litho,Ogwashi-Asaba/Benin,12.20,106.00,,80.20,85.40,100.00,8500.00,12.50,Unconfined,Ca-Cl,5.80,105.00,,2,No pump test; no VES,This study + Akpoborie et al. 2011
+SP-002,Issele-Uku-BH,Delta North,NW Delta N,6.300,6.417,BH+Litho,Benin Fm,30.50,206.00,,138.00,78.60,150.00,20700.00,18.50,Unconfined deep,Ca-Cl,6.00,119.00,,2,No pump test,This study
+SP-003,Umunede-BH,Delta North,Central N,6.257,6.307,BH+Litho,Benin Fm,21.30,236.00,,128.30,58.10,80.00,10240.00,22.00,Unconfined,Ca-Cl,5.90,125.00,,3,Thick confining clay 120–165 m; no pump,This study
+SP-004,Ewuru-BH,Delta North,W Delta N,6.243,6.146,BH+Litho,Benin Fm,30.50,220.00,,190.00,84.40,120.00,22800.00,20.50,Unconfined,Ca-Cl,5.80,115.00,,3,No pump test; limited geochem,This study
+SP-005,Ute-Okpu-BH,Delta North,NW Central N,6.195,6.274,BH+Litho,Benin Fm,18.90,218.00,,178.30,89.70,250.00,44575.00,8.20,Unconfined high K,Ca-Cl,5.70,105.00,,2,Gravel dominant; no pump test,This study
+SP-006,Idumuje-Unor-BH,Delta North,S Delta N,5.879,6.442,BH+Litho,Benin Fm,18.30,250.00,,206.30,87.90,200.00,41260.00,12.00,Unconfined deep,Ca-Cl,5.90,120.00,,2,"No pump; lignite markers at 180,200 m",This study
+SP-007,Kwale-BH,Delta Central,E Delta C,5.711,6.434,BH+Litho,Benin Fm,12.20,120.00,,103.00,100.00,250.00,26250.00,5.80,Unconfined,Ca-Cl,6.20,130.00,,2,No pump test; high-K gravel sequence,This study
+SP-008,Abraka-DS-BH,Delta Central,E Central C,5.789,6.103,BH+Litho,Benin Fm,6.10,122.00,,91.40,94.80,600.00,54600.00,4.20,Unconfined high K,Ca-Cl/Ca-Mg-Cl,6.80,182.00,0.18,1,Best constrained: litho+geochem+pump (Anomohanran 2014),This study + Anomohanran 2014
+SP-009,Oben-CB-BH,Delta Central,W Oben,5.950,5.867,BH+Litho,Benin Fm,18.30,70.10,,51.80,100.00,150.00,7770.00,5.00,Unconfined,Ca-Cl,6.50,140.00,,3,Shallow TD; limited data,This study
+SP-010,Oben-RB-BH,Delta Central,C Oben,5.950,5.883,BH+Litho,Benin Fm,15.00,118.90,,91.40,80.00,120.00,10968.00,4.50,Semi-confined,Ca-Cl,6.40,138.00,,3,Clay cap at 15–18 m important,This study
+SP-011,Oben-LQ-BH,Delta Central,E Oben,5.950,5.867,BH+Litho,Benin Fm,15.20,164.60,,112.80,71.20,180.00,20304.00,6.00,Unconfined,Ca-Cl,6.30,135.00,,3,Heterolithic; CL-FS baffles important,This study
+SP-012,Amukpe-BH,Delta Central,SW Delta C,5.875,5.704,BH+Litho,Benin Fm,6.10,138.00,,130.80,100.00,250.00,32700.00,5.50,Unconfined,Ca-Cl,6.50,142.00,,2,No pump test,This study
+SP-013,Sapele-West-BH,Delta Central,SW Delta C,5.833,5.667,BH+Litho,Benin Fm,6.10,140.20,,81.10,61.40,50.00,4055.00,6.80,Unconfined-hetero,Ca-Cl / mixed,6.50,138.00,,3,High heterogeneity; SI-FS/CL-FS baffles dominate upper section,This study
+SP-014,Orerokpe-BH,Delta Central,S Delta C,5.633,5.892,BH+VES+Pump,Benin Fm,6.40,89.90,,82.30,94.30,28.20,2534.00,6.40,Unconfined,Ca-Cl,6.50,125.00,,1,Best VES+pump constrained in C zone,Aweto & Akpoborie 2015
+SP-015,Ozoro-BH,Delta Central,SE Delta C,5.538,6.215,BH+Litho,Benin Fm,15.20,79.30,,64.00,87.50,150.00,9600.00,8.50,Unconfined,Ca-Cl,6.40,128.00,,3,Limited data; no pump,This study
+SP-016,Eriemu-3-BH,Delta South,NE Delta S,5.483,6.033,BH+Litho,Benin Fm,27.40,109.80,,76.20,92.60,180.00,13716.00,5.20,Unconfined,Ca-Cl,6.30,120.00,,3,Limited data; no pump; no geochem,This study
+SP-017,Edjovhe-BH,Delta South,Central S,5.481,5.889,BH+Litho,Deltaic Pl.Sands,30.50,79.30,,79.30,60.10,100.00,7930.00,4.80,Multi-zone,Ca-Cl / mixed,6.00,112.00,,4,Complex stratigraphy; thick SC at 30–70 m; deep fine sand below 200 m unproductive,This study
+SP-018,Ughelli-East-BH,Delta South,NW Delta S,5.467,5.850,BH+Litho,Deltaic Pl.Sands/Benin,6.10,70.10,,39.60,66.70,120.00,4752.00,3.20,Unconfined-semi,Ca-Cl,6.20,125.00,,3,Thin aquifer section; limited geochem,This study + Izeze et al. 2015
+SP-019,Utorogu-BH,Delta South,N Delta S,5.367,5.867,BH+Litho,Deltaic Pl.Sands,12.20,103.70,,67.10,73.30,80.00,5368.00,3.80,Unconfined,Ca-Cl,6.10,118.00,,3,Interbedded; CL-FS baffles,This study
+SP-020,RA-Ogunu-Warri-BH,Delta South,Warri,5.516,5.752,BH+Litho+Geochem,Deltaic Pl.Sands,6.10,103.70,,67.10,68.80,80.00,5368.00,4.00,Unconfined,Na-Cl / Ca-Cl,7.10,193.00,0.35,2,Saline influence risk near River Warri; Geochem available,This study + Akpoborie et al. 2014
+SP-021,Forcados-BH,Delta South,S Delta S,5.333,5.467,BH+Litho,Deltaic Pl.Sands,6.10,152.40,,45.70,31.20,25.00,1142.00,2.50,Confined,Na-Cl (brackish risk),5.80,200.00,,4,Thick confining silt+clay (0–82 m); restricted to deep zone; saline intrusion risk,This study
+SP-022,Orerokpe-VES-avg,Delta Central,S Delta C,5.640,5.895,VES,Benin Fm,,28.00,,45.00,,28.00,1260.00,7.50,Unconfined,Ca-Cl (inferred),,,,2,No well confirmation,Aweto & Akpoborie 2015
+SP-023,Abraka-VES-avg,Delta Central,E Delta C,5.810,6.095,VES,Benin Fm,,40.00,,52.00,,100.00,5200.00,4.00,Unconfined,Ca-Cl (inferred),,,,2,Limited pump test validation,Anomohanran 2014
+SP-024,Ndokwa-VES-avg,Delta Central,C Delta C,5.626,6.366,VES,Benin Fm,,22.00,,62.00,,,,,Unconfined,Ca-Cl (inferred),,,,3,No pump test; geochem absent,Anomohanran et al. 2017
+SP-025,Agbor-VES-avg,Delta North,S Delta N,6.259,6.202,VES+Pump,Benin Fm,,29.00,,26.50,,58.50,1556.00,7.00,Unconfined,Ca-Cl,,,,1,Good pump test data,Anomohanran et al. 2021
+SP-026,Erho-VES-pump,Delta Central,SE Delta C,5.681,6.282,VES+Pump,Benin Fm,,16.00,,43.00,,19.85,854.00,6.10,Unconfined,Ca-Cl (inferred),,,,2,Pump test done; no geochem,Anomohanran & Iserhien-Emekeme 2014
+SP-027,Nsukwa-VES-pump,Delta Central,W Delta C,5.702,6.322,VES+Pump,Benin Fm,,24.20,,43.80,,30.00,1317.00,8.80,Unconfined,Ca-Cl (inferred),,,,1,Good VES+pump,Ofomola et al. 2024
+SP-028,Ogwashi-Asaba BH,Delta North,N Delta N,6.307,6.612,BH+Pump,Ogwashi-Asaba Fm,,35.00,180.00,145.00,,41.90,6285.00,26.80,Semi-confined deep,Fe-Ca-Cl,5.50,185.00,2.80,2,Iron-rich; loss of circulation drilling,Amajor 1991; Nwankwo 2023
+"?  Uncertainty rank: 1=well constrained (BH+pump+geochem+VES); 2=moderate (BH+litho+VES); 3=limited (BH or VES only); 4=poorly constrained; 5=no local data. Colour: green=low uncertainty, red=high uncertainty.",,,,,,,,,,,,,,,,,,,,,,,
