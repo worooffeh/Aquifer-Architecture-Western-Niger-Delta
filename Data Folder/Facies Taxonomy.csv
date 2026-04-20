@@ -1,0 +1,19 @@
+Code,Full Facies Name,Texture Group,"Grain Size
+(phi)","Aquifer
+Class",Swatch,k-range (mD),Modelling Notes
+TS,Topsoil / Laterite,Residual/Organic,–,Aquitard,,–,Exclude from model
+CL,Clay,Pelitic,<4,Aquitard,,<0.01,Aquitard; seal/barrier
+LG,Lignite / Carbonaceous Clay,Carbonaceous,–,Aquitard,,–,Regional marker; aquitard
+SI,Silt,Pelitic,4–8,Aquitard,,0.01–0.1,Aquitard; low-perm barrier
+CL-SI,Clayey Silt (transitional),Pelitic transitional,2–5,Aquitard,,0.05–0.5,60% aquitard weight
+SI-CL,Silty Clay (transitional),Pelitic transitional,3–6,Aquitard,,0.01–0.2,55% aquitard weight
+SI-FS,Silty Fine Sand (transitional),Pelitic–Psammitic,3.5–4.5,Semi-aquifer,,0.5–5,40% aquifer weight; semi-aquifer
+CL-FS,Clayey Fine Sand (transitional),Pelitic–Psammitic,2.5–4.5,Semi-aquifer,,0.1–5,30% aquifer weight; heterolithic
+FS,Fine Sand,Psammitic,3.0–4.0,Aquifer,,10–50,Aquifer; low-moderate perm
+FS-MS,Fine–Medium Sand (transitional),Psammitic transitional,2.0–3.5,Aquifer,,20–80,60% aquifer weight; coarsening-up
+MS,Medium Sand,Psammitic,1.0–2.0,Aquifer,,50–200,Aquifer; moderate perm
+MS-CS,Medium–Coarse Sand (transitional),Psammitic transitional,0.5–2.0,Aquifer,,100–400,75% aquifer weight; high transmissivity
+CS,Coarse Sand,Psammitic,0–1.0,Aquifer,,200–800,Aquifer; high perm
+CS-GR,Coarse Sand–Gravel (transitional),Psammitic–Ruditic,-0.5–0.5,Aquifer,,400–1000,85% aquifer weight; very high transmissivity
+GR,Gravel / Very Coarse Sand,Ruditic,<0,Aquifer,,>800,Aquifer; very high perm; channel lag
+SC,Sandy Clay,Mixed,1.5–4.0,Semi-aquifer,,0.5–20,Semi-confining; heterolithic

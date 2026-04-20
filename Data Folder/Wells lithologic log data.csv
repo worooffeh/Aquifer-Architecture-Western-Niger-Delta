@@ -1,0 +1,195 @@
+Well Name,Location,Region,"MD Top
+(ft)","MD Base
+(ft)","Thickness
+(ft)","Facies
+Code","Facies Name
+(Standard)","Aquifer
+Class","Contact
+Type","Colour
+Swatch",Notes / Interpretation
+Asaba-2,"Asaba, Delta North",Delta North,0,40,40,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 40 ft thick; excluded from aquifer model
+Asaba-2,"Asaba, Delta North",Delta North,40,80,40,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 40 ft thick; moderate transmissivity; deltaic channel/bar origin
+Asaba-2,"Asaba, Delta North",Delta North,80,128,48,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 48 ft thick; good permeability; fluvial/delta plain channel
+Asaba-2,"Asaba, Delta North",Delta North,128,150,22,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 22 ft thick; moderate transmissivity; deltaic channel/bar origin
+Asaba-2,"Asaba, Delta North",Delta North,150,230,80,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 80 ft thick; good permeability; fluvial/delta plain channel
+Asaba-2,"Asaba, Delta North",Delta North,230,240,10,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 10 ft thick; gradational facies change; semi-aquifer
+Asaba-2,"Asaba, Delta North",Delta North,240,247,7,LG,Lignite / Carbonaceous Clay,Aquitard,Sharp,,Lignite/carbonaceous clay seam; 7 ft thick; regional stratigraphic marker horizon
+Asaba-2,"Asaba, Delta North",Delta North,247,310,63,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 63 ft thick; moderate transmissivity; deltaic channel/bar origin
+Asaba-2,"Asaba, Delta North",Delta North,310,320,10,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 10 ft thick; gradational facies change; semi-aquifer
+Asaba-2,"Asaba, Delta North",Delta North,320,330,10,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 10 ft thick; moderate transmissivity; deltaic channel/bar origin
+Asaba-2,"Asaba, Delta North",Delta North,330,348,18,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 18 ft thick; gradational facies change; semi-aquifer
+Issele-Uku,"Issele-Uku, Delta North",Delta North,0,100,100,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 100 ft thick; excluded from aquifer model
+Issele-Uku,"Issele-Uku, Delta North",Delta North,100,260,160,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 160 ft thick; high transmissivity; major aquifer interval
+Issele-Uku,"Issele-Uku, Delta North",Delta North,260,300,40,CL,Clay,Aquitard,Sharp,,Clay confining layer; 40 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,300,360,60,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 60 ft thick; moderate transmissivity; deltaic channel/bar origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,360,422,62,CL,Clay,Aquitard,Sharp,,Clay confining layer; 62 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,422,525,103,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 103 ft thick; high transmissivity; major aquifer interval
+Issele-Uku,"Issele-Uku, Delta North",Delta North,525,545,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,545,580,35,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 35 ft thick; good permeability; fluvial/delta plain channel
+Issele-Uku,"Issele-Uku, Delta North",Delta North,580,600,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,600,620,20,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+Issele-Uku,"Issele-Uku, Delta North",Delta North,620,640,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Issele-Uku,"Issele-Uku, Delta North",Delta North,640,655,15,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 15 ft thick; good permeability; fluvial/delta plain channel
+Issele-Uku,"Issele-Uku, Delta North",Delta North,655,676,21,CL,Clay,Aquitard,Sharp,,Clay confining layer; 21 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Umunede,"Umunede, Delta North",Delta North,0,70,70,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 70 ft thick; excluded from aquifer model
+Umunede,"Umunede, Delta North",Delta North,70,100,30,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Umunede,"Umunede, Delta North",Delta North,100,120,20,SI,Silt,Aquitard,Sharp,,Silt unit; 20 ft thick; low-permeability barrier; likely overbank or prodelta deposit
+Umunede,"Umunede, Delta North",Delta North,120,145,25,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 25 ft thick; moderate transmissivity; deltaic channel/bar origin
+Umunede,"Umunede, Delta North",Delta North,145,149,4,SI,Silt,Aquitard,Sharp,,Silt unit; 4 ft thick; low-permeability barrier; likely overbank or prodelta deposit
+Umunede,"Umunede, Delta North",Delta North,149,175,26,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 26 ft thick; moderate transmissivity; deltaic channel/bar origin
+Umunede,"Umunede, Delta North",Delta North,175,220,45,CL,Clay,Aquitard,Sharp,,Clay confining layer; 45 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Umunede,"Umunede, Delta North",Delta North,220,300,80,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 80 ft thick; high transmissivity; major aquifer interval
+Umunede,"Umunede, Delta North",Delta North,300,330,30,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 30 ft thick; good permeability; fluvial/delta plain channel
+Umunede,"Umunede, Delta North",Delta North,330,345,15,CL,Clay,Aquitard,Sharp,,Clay confining layer; 15 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Umunede,"Umunede, Delta North",Delta North,345,395,50,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 50 ft thick; moderate transmissivity; deltaic channel/bar origin
+Umunede,"Umunede, Delta North",Delta North,395,540,145,CL,Clay,Aquitard,Sharp,,Clay confining layer; 145 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Umunede,"Umunede, Delta North",Delta North,540,570,30,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Umunede,"Umunede, Delta North",Delta North,570,580,10,CL,Clay,Aquitard,Sharp,,Clay confining layer; 10 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Umunede,"Umunede, Delta North",Delta North,580,730,150,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 150 ft thick; high transmissivity; major aquifer interval
+Umunede,"Umunede, Delta North",Delta North,730,795,65,CL,Clay,Aquitard,Sharp,,Clay confining layer; 65 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ewuru,"Ewuru, Delta North",Delta North,0,100,100,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 100 ft thick; excluded from aquifer model
+Ewuru,"Ewuru, Delta North",Delta North,100,275,175,FS-MS,Fine–Medium Sand (transitional),Aquifer,Gradational,,Fine–medium sand transition; 175 ft thick; good aquifer potential; upward-coarsening
+Ewuru,"Ewuru, Delta North",Delta North,275,345,70,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 70 ft thick; good permeability; fluvial/delta plain channel
+Ewuru,"Ewuru, Delta North",Delta North,345,365,20,FS-MS,Fine–Medium Sand (transitional),Aquifer,Gradational,,Fine–medium sand transition; 20 ft thick; good aquifer potential; upward-coarsening
+Ewuru,"Ewuru, Delta North",Delta North,365,385,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ewuru,"Ewuru, Delta North",Delta North,385,460,75,CL,Clay,Aquitard,Sharp,,Clay confining layer; 75 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ewuru,"Ewuru, Delta North",Delta North,460,560,100,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 100 ft thick; good permeability; fluvial/delta plain channel
+Ewuru,"Ewuru, Delta North",Delta North,560,675,115,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 115 ft thick; very high permeability; proximal channel/bar deposit
+Ewuru,"Ewuru, Delta North",Delta North,675,700,25,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 25 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ewuru,"Ewuru, Delta North",Delta North,700,722,22,CL,Clay,Aquitard,Sharp,,Clay confining layer; 22 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,0,62,62,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 62 ft thick; excluded from aquifer model
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,62,75,13,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 13 ft thick; very high permeability; proximal channel/bar deposit
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,75,140,65,GR,Gravel / Very Coarse Sand,Aquifer,Gradational,,Gravel/very coarse sand; 65 ft thick; extremely high permeability; lag deposit or coarse channel
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,140,152,12,CL,Clay,Aquitard,Sharp,,Clay confining layer; 12 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,152,225,73,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 73 ft thick; very high permeability; proximal channel/bar deposit
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,225,260,35,CL,Clay,Aquitard,Sharp,,Clay confining layer; 35 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,260,270,10,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 10 ft thick; very high permeability; proximal channel/bar deposit
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,270,352,82,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 82 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,352,570,218,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 218 ft thick; high transmissivity; major aquifer interval
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,570,590,20,CL,Clay,Aquitard,Sharp,,Clay confining layer; 20 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,590,650,60,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 60 ft thick; very high permeability; proximal channel/bar deposit
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,650,670,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ute-Okpu,"Ute-Okpu, Delta North",Delta North,670,714,44,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 44 ft thick; very high permeability; proximal channel/bar deposit
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,0,60,60,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 60 ft thick; excluded from aquifer model
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,60,195,135,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 135 ft thick; high transmissivity; major aquifer interval
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,195,198,3,CL,Clay,Aquitard,Sharp,,Clay confining layer; 3 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,198,298,100,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 100 ft thick; high transmissivity; major aquifer interval
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,298,320,22,CL,Clay,Aquitard,Sharp,,Clay confining layer; 22 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,320,345,25,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 25 ft thick; high transmissivity; major aquifer interval
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,345,375,30,CL,Clay,Aquitard,Sharp,,Clay confining layer; 30 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,375,590,215,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 215 ft thick; high transmissivity; major aquifer interval
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,590,597,7,LG,Lignite / Carbonaceous Clay,Aquitard,Sharp,,Lignite/carbonaceous clay seam; 7 ft thick; regional stratigraphic marker horizon
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,597,615,18,CL,Clay,Aquitard,Sharp,,Clay confining layer; 18 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,615,647,32,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 32 ft thick; high transmissivity; major aquifer interval
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,647,655,8,CL,Clay,Aquitard,Sharp,,Clay confining layer; 8 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,655,677,22,LG,Lignite / Carbonaceous Clay,Aquitard,Sharp,,Lignite/carbonaceous clay seam; 7 ft thick; regional stratigraphic marker horizon
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,677,689,12,CL,Clay,Aquitard,Sharp,,Clay confining layer; 12 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Idumuje-Unor,"Idumuje-Unor, Delta North",Delta North,689,830,141,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 141 ft thick; high transmissivity; major aquifer interval
+Kwale,"Kwale, Delta Central",Delta Central,0,40,40,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 40 ft thick; excluded from aquifer model
+Kwale,"Kwale, Delta Central",Delta Central,40,285,245,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 245 ft thick; high transmissivity; major aquifer interval
+Kwale,"Kwale, Delta Central",Delta Central,285,315,30,GR,Gravel / Very Coarse Sand,Aquifer,Gradational,,Gravel/very coarse sand; 30 ft thick; extremely high permeability; lag deposit or coarse channel
+Kwale,"Kwale, Delta Central",Delta Central,315,385,70,CS-GR,Coarse Sand–Gravel (transitional),Aquifer,Gradational,,Coarse sand–gravel transition; 70 ft thick; very high transmissivity; gravelly channel fill
+Kwale,"Kwale, Delta Central",Delta Central,385,473,88,CS,Coarse Sand,Aquifer,Gradational,,Coarse sand aquifer; 88 ft thick; very high permeability; proximal channel/bar deposit
+Abraka,"Abraka, Delta Central",Delta Central,0,20,20,TS,Topsoil / Laterite,Aquitard,Gradational,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Abraka,"Abraka, Delta Central",Delta Central,20,40,20,SI,Silt,Aquitard,Sharp,,Silt unit; 20 ft thick; low-permeability barrier; likely overbank or prodelta deposit
+Abraka,"Abraka, Delta Central",Delta Central,40,120,80,CS-GR,Coarse Sand–Gravel (transitional),Aquifer,Gradational,,Coarse sand–gravel transition; 80 ft thick; very high transmissivity; gravelly channel fill
+Abraka,"Abraka, Delta Central",Delta Central,120,220,100,GR,Gravel / Very Coarse Sand,Aquifer,Gradational,,Gravel/very coarse sand; 100 ft thick; extremely high permeability; lag deposit or coarse channel
+Abraka,"Abraka, Delta Central",Delta Central,220,240,20,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+Abraka,"Abraka, Delta Central",Delta Central,240,320,80,GR,Gravel / Very Coarse Sand,Aquifer,Gradational,,Gravel/very coarse sand; 80 ft thick; extremely high permeability; lag deposit or coarse channel
+Abraka,"Abraka, Delta Central",Delta Central,320,370,50,CS-GR,Coarse Sand–Gravel (transitional),Aquifer,Gradational,,Coarse sand–gravel transition; 50 ft thick; very high transmissivity; gravelly channel fill
+Abraka,"Abraka, Delta Central",Delta Central,370,405,35,GR,Gravel / Very Coarse Sand,Aquifer,Gradational,,Gravel/very coarse sand; 35 ft thick; extremely high permeability; lag deposit or coarse channel
+Oben CB,"Oben, Edo/Delta Central",Delta Central,0,60,60,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 60 ft thick; excluded from aquifer model
+Oben CB,"Oben, Edo/Delta Central",Delta Central,60,130,70,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 70 ft thick; good permeability; fluvial/delta plain channel
+Oben CB,"Oben, Edo/Delta Central",Delta Central,130,220,90,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 90 ft thick; very high permeability; proximal channel/bar deposit
+Oben CB,"Oben, Edo/Delta Central",Delta Central,220,230,10,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 10 ft thick; good permeability; fluvial/delta plain channel
+Oben RB,"Oben, Edo/Delta Central",Delta Central,0,15,15,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 15 ft thick; excluded from aquifer model
+Oben RB,"Oben, Edo/Delta Central",Delta Central,15,60,45,CL,Clay,Aquitard,Sharp,,Clay confining layer; 45 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Oben RB,"Oben, Edo/Delta Central",Delta Central,60,90,30,SC,Sandy Clay,Semi-aquifer,Sharp,,Sandy clay; 30 ft thick; heterolithic; semi-confining; limited aquifer potential
+Oben RB,"Oben, Edo/Delta Central",Delta Central,90,110,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Oben RB,"Oben, Edo/Delta Central",Delta Central,110,210,100,CS,Coarse Sand,Aquifer,Gradational,,Coarse sand aquifer; 100 ft thick; very high permeability; proximal channel/bar deposit
+Oben RB,"Oben, Edo/Delta Central",Delta Central,210,390,180,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 180 ft thick; good permeability; fluvial/delta plain channel
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,20,50,30,SI,Silt,Aquitard,Sharp,,Silt unit; 30 ft thick; low-permeability barrier; likely overbank or prodelta deposit
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,50,90,40,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 40 ft thick; very high permeability; proximal channel/bar deposit
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,90,110,20,CL,Clay,Aquitard,Sharp,,Clay confining layer; 20 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,110,170,60,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Sharp,,Clayey fine sand; 60 ft thick; heterolithic; semi-confining with limited yield
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,170,350,180,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 180 ft thick; very high permeability; proximal channel/bar deposit
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,350,390,40,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Sharp,,Clayey fine sand; 40 ft thick; heterolithic; semi-confining with limited yield
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,390,410,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,410,460,50,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 50 ft thick; good permeability; fluvial/delta plain channel
+Oben LQ,"Oben, Edo/Delta Central",Delta Central,460,540,80,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 80 ft thick; very high permeability; proximal channel/bar deposit
+Amukpe,"Amukpe, Delta Central",Delta Central,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Amukpe,"Amukpe, Delta Central",Delta Central,20,90,70,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 70 ft thick; very high permeability; proximal channel/bar deposit
+Amukpe,"Amukpe, Delta Central",Delta Central,90,120,30,CS-GR,Coarse Sand–Gravel (transitional),Aquifer,Gradational,,Coarse sand–gravel transition; 30 ft thick; very high transmissivity; gravelly channel fill
+Amukpe,"Amukpe, Delta Central",Delta Central,120,150,30,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 30 ft thick; very high permeability; proximal channel/bar deposit
+Amukpe,"Amukpe, Delta Central",Delta Central,150,205,55,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 55 ft thick; good permeability; fluvial/delta plain channel
+Amukpe,"Amukpe, Delta Central",Delta Central,205,453,248,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 248 ft thick; very high permeability; proximal channel/bar deposit
+Sapele-West,"Sapele, Delta Central",Delta Central,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Sapele-West,"Sapele, Delta Central",Delta Central,20,40,20,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 20 ft thick; gradational facies change; semi-aquifer
+Sapele-West,"Sapele, Delta Central",Delta Central,40,70,30,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Sapele-West,"Sapele, Delta Central",Delta Central,70,90,20,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+Sapele-West,"Sapele, Delta Central",Delta Central,90,110,20,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Sapele-West,"Sapele, Delta Central",Delta Central,110,130,20,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 20 ft thick; gradational facies change; semi-aquifer
+Sapele-West,"Sapele, Delta Central",Delta Central,130,160,30,CL,Clay,Aquitard,Gradational,,Clay confining layer; 30 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Sapele-West,"Sapele, Delta Central",Delta Central,160,190,30,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Sapele-West,"Sapele, Delta Central",Delta Central,190,230,40,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 40 ft thick; heterolithic; semi-confining with limited yield
+Sapele-West,"Sapele, Delta Central",Delta Central,230,290,60,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 60 ft thick; moderate transmissivity; deltaic channel/bar origin
+Sapele-West,"Sapele, Delta Central",Delta Central,290,310,20,SC,Sandy Clay,Semi-aquifer,Gradational,,Sandy clay; 20 ft thick; heterolithic; semi-confining; limited aquifer potential
+Sapele-West,"Sapele, Delta Central",Delta Central,310,390,80,CS-GR,Coarse Sand–Gravel (transitional),Aquifer,Sharp,,Coarse sand–gravel transition; 80 ft thick; very high transmissivity; gravelly channel fill
+Sapele-West,"Sapele, Delta Central",Delta Central,390,410,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Sharp,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+Sapele-West,"Sapele, Delta Central",Delta Central,410,440,30,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Sapele-West,"Sapele, Delta Central",Delta Central,440,460,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+Orerokpe,"Orerokpe, Delta Central",Delta Central,0,16,16,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 16 ft thick; excluded from aquifer model
+Orerokpe,"Orerokpe, Delta Central",Delta Central,16,32,16,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 16 ft thick; heterolithic; semi-confining with limited yield
+Orerokpe,"Orerokpe, Delta Central",Delta Central,32,98,66,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 66 ft thick; moderate transmissivity; deltaic channel/bar origin
+Orerokpe,"Orerokpe, Delta Central",Delta Central,98,132,34,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 34 ft thick; very high permeability; proximal channel/bar deposit
+Orerokpe,"Orerokpe, Delta Central",Delta Central,132,164,32,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 32 ft thick; good permeability; fluvial/delta plain channel
+Orerokpe,"Orerokpe, Delta Central",Delta Central,164,198,34,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 34 ft thick; high transmissivity; major aquifer interval
+Orerokpe,"Orerokpe, Delta Central",Delta Central,198,296,98,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 98 ft thick; very high permeability; proximal channel/bar deposit
+Ozoro,"Ozoro, Delta Central",Delta Central,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Ozoro,"Ozoro, Delta Central",Delta Central,20,50,30,CL,Clay,Aquitard,Gradational,,Clay confining layer; 30 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ozoro,"Ozoro, Delta Central",Delta Central,50,100,50,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 50 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ozoro,"Ozoro, Delta Central",Delta Central,100,120,20,CS,Coarse Sand,Aquifer,Gradational,,Coarse sand aquifer; 20 ft thick; very high permeability; proximal channel/bar deposit
+Ozoro,"Ozoro, Delta Central",Delta Central,120,260,140,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 140 ft thick; high transmissivity; major aquifer interval
+Eriemu-3,"Eriemu, Delta South",Delta South,0,90,90,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 90 ft thick; excluded from aquifer model
+Eriemu-3,"Eriemu, Delta South",Delta South,90,180,90,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 90 ft thick; high transmissivity; major aquifer interval
+Eriemu-3,"Eriemu, Delta South",Delta South,180,200,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+Eriemu-3,"Eriemu, Delta South",Delta South,200,250,50,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 50 ft thick; very high permeability; proximal channel/bar deposit
+Eriemu-3,"Eriemu, Delta South",Delta South,250,360,110,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 110 ft thick; high transmissivity; major aquifer interval
+Edjovhe,"Edjovhe, Delta South",Delta South,0,100,100,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 100 ft thick; excluded from aquifer model
+Edjovhe,"Edjovhe, Delta South",Delta South,100,230,130,SC,Sandy Clay,Semi-aquifer,Gradational,,Sandy clay; 130 ft thick; heterolithic; semi-confining; limited aquifer potential
+Edjovhe,"Edjovhe, Delta South",Delta South,230,490,260,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 260 ft thick; very high permeability; proximal channel/bar deposit
+Edjovhe,"Edjovhe, Delta South",Delta South,490,660,170,CL,Clay,Aquitard,Sharp,,Clay confining layer; 170 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Edjovhe,"Edjovhe, Delta South",Delta South,660,852,192,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 192 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ughelli-East,"Ughelli, Delta South",Delta South,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Ughelli-East,"Ughelli, Delta South",Delta South,20,60,40,CL,Clay,Aquitard,Sharp,,Clay confining layer; 40 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Ughelli-East,"Ughelli, Delta South",Delta South,60,90,30,SC,Sandy Clay,Semi-aquifer,Gradational,,Sandy clay; 30 ft thick; heterolithic; semi-confining; limited aquifer potential
+Ughelli-East,"Ughelli, Delta South",Delta South,90,110,20,FS,Fine Sand,Aquifer,Sharp,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Ughelli-East,"Ughelli, Delta South",Delta South,110,130,20,MS,Medium Sand,Aquifer,Sharp,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+Ughelli-East,"Ughelli, Delta South",Delta South,130,230,100,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 100 ft thick; very high permeability; proximal channel/bar deposit
+Utorogu,"Utorogu, Delta South",Delta South,0,40,40,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 40 ft thick; excluded from aquifer model
+Utorogu,"Utorogu, Delta South",Delta South,40,80,40,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 40 ft thick; very high permeability; proximal channel/bar deposit
+Utorogu,"Utorogu, Delta South",Delta South,80,100,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+Utorogu,"Utorogu, Delta South",Delta South,100,140,40,CL,Clay,Aquitard,Gradational,,Clay confining layer; 40 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Utorogu,"Utorogu, Delta South",Delta South,140,170,30,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 30 ft thick; moderate transmissivity; deltaic channel/bar origin
+Utorogu,"Utorogu, Delta South",Delta South,170,190,20,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+Utorogu,"Utorogu, Delta South",Delta South,190,240,50,CS,Coarse Sand,Aquifer,Sharp,,Coarse sand aquifer; 50 ft thick; very high permeability; proximal channel/bar deposit
+Utorogu,"Utorogu, Delta South",Delta South,240,260,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+Utorogu,"Utorogu, Delta South",Delta South,260,300,40,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 40 ft thick; moderate transmissivity; deltaic channel/bar origin
+Utorogu,"Utorogu, Delta South",Delta South,300,310,10,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 10 ft thick; good permeability; fluvial/delta plain channel
+Utorogu,"Utorogu, Delta South",Delta South,310,340,30,CS,Coarse Sand,Aquifer,Gradational,,Coarse sand aquifer; 30 ft thick; very high permeability; proximal channel/bar deposit
+RA Ogunu-Warri,"Warri, Delta South",Delta South,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+RA Ogunu-Warri,"Warri, Delta South",Delta South,20,60,40,CL,Clay,Aquitard,Sharp,,Clay confining layer; 40 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+RA Ogunu-Warri,"Warri, Delta South",Delta South,60,80,20,CL-FS,Clayey Fine Sand (transitional),Semi-aquifer,Gradational,,Clayey fine sand; 20 ft thick; heterolithic; semi-confining with limited yield
+RA Ogunu-Warri,"Warri, Delta South",Delta South,80,100,20,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+RA Ogunu-Warri,"Warri, Delta South",Delta South,100,140,40,CL,Clay,Aquitard,Sharp,,Clay confining layer; 40 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+RA Ogunu-Warri,"Warri, Delta South",Delta South,140,250,110,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 110 ft thick; moderate transmissivity; deltaic channel/bar origin
+RA Ogunu-Warri,"Warri, Delta South",Delta South,250,270,20,MS,Medium Sand,Aquifer,Gradational,,Medium sand aquifer; 20 ft thick; good permeability; fluvial/delta plain channel
+RA Ogunu-Warri,"Warri, Delta South",Delta South,270,340,70,CS,Coarse Sand,Aquifer,Gradational,,Coarse sand aquifer; 70 ft thick; very high permeability; proximal channel/bar deposit
+Forcados,"Forcados, Delta South",Delta South,0,20,20,TS,Topsoil / Laterite,Aquitard,Sharp,,Surface laterite/topsoil horizon; 20 ft thick; excluded from aquifer model
+Forcados,"Forcados, Delta South",Delta South,20,130,110,SI,Silt,Aquitard,Gradational,,Silt unit; 110 ft thick; low-permeability barrier; likely overbank or prodelta deposit
+Forcados,"Forcados, Delta South",Delta South,130,270,140,CL,Clay,Aquitard,Sharp,,Clay confining layer; 140 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Forcados,"Forcados, Delta South",Delta South,270,290,20,FS,Fine Sand,Aquifer,Gradational,,Fine sand aquifer unit; 20 ft thick; moderate transmissivity; deltaic channel/bar origin
+Forcados,"Forcados, Delta South",Delta South,290,350,60,SI-FS,Silty Fine Sand (transitional),Semi-aquifer,Gradational,,Silty fine sand transition; 60 ft thick; gradational facies change; semi-aquifer
+Forcados,"Forcados, Delta South",Delta South,350,370,20,CL,Clay,Aquitard,Sharp,,Clay confining layer; 20 ft thick; acts as aquitard/barrier; likely of deltaic floodplain origin
+Forcados,"Forcados, Delta South",Delta South,370,500,130,MS-CS,Medium–Coarse Sand (transitional),Aquifer,Gradational,,Medium–coarse sand transition; 130 ft thick; high transmissivity; major aquifer interval
