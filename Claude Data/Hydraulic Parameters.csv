@@ -1,0 +1,33 @@
+"HYDRAULIC PARAMETER DATABASE  —  Benin Formation Aquifer, Delta State  (compiled from published pump tests, grain-size analysis, VES-Dar Zarrouk)",,,,,,,,,,,,,,,,,,,
+HYD_ID,BH_ID,Site,Region,Method,"Aquifer
+Zone","Aquifer
+Type",K (m/day),K (m/s),T (m²/day),T (m²/s),S (storage),Sc (m³/h/m),"Porosity
+n (%)","Aq Thick
+(m)","Screen
+Depth (m)",SWL (m),"Yield
+(m³/h)","Drawdown
+(m)",Source
+HYD-001,BH-001,Abraka,Delta Central,Pumping test,Zone II,Unconfined,102.67,1.19E-03,4106.88,4.75E-02,1.3E-05,,,40.00,35–95 m,3.50,,,Anomohanran 2014
+HYD-002,BH-004,Abraka (pump),Delta Central,Pumping test,Zone II,Unconfined,102.70,1.19E-03,4108.00,4.76E-02,1.3E-05,,,40.00,50–90m,3.50,,,Anomohanran 2014
+HYD-003,BH-005,Orerokpe-1,Delta Central,VES Dar-Zarrouk,Zone II,Unconfined,10.50,1.22E-04,418.60,4.84E-03,,,,39.80,6.4–75m,6.40,,,Aweto & Akpoborie 2015
+HYD-004,BH-006,Orerokpe-2,Delta Central,VES Dar-Zarrouk,Zone II,Unconfined,25.80,2.99E-04,1030.00,1.19E-02,,,,40.00,8–80m,8.10,,,Aweto & Akpoborie 2015
+HYD-005,BH-005,Orerokpe-max,Delta Central,VES Dar-Zarrouk,Zone II,Unconfined,45.71,5.29E-04,1637.30,1.90E-02,,,,42.00,20–75m,7.50,,,Aweto & Akpoborie 2015
+HYD-006,BH-001,Abraka grain-size,Delta Central,Grain size analysis,Zone II,Unconfined,10368.00,1.20E-01,414720.00,4.80E+00,,,,,40–95m,4.20,,,Akpoborie & Efobo 2014
+HYD-007,BH-002,Abraka grain-size 2,Delta Central,Grain size analysis,Zone II,Unconfined,16416.00,1.90E-01,656640.00,7.60E+00,,,,,38–90m,3.80,,,Akpoborie & Efobo 2014
+HYD-008,BH-020,Agbor pump-1,Delta North,Pumping test,Zone II,Unconfined,55.20,6.39E-04,1572.00,1.82E-02,2.1E-04,,28.5,26–82m,6.8,28.50,,Anomohanran et al. 2021,Anomohanran et al. 2021
+HYD-009,BH-021,Agbor pump-2,Delta North,Pumping test,Zone II,Unconfined,62.80,7.27E-04,1760.00,2.04E-02,1.8E-04,,31.2,28–78m,7.2,31.20,,Anomohanran et al. 2021,Anomohanran et al. 2021
+HYD-010,BH-022,Nsukwa pump-1,Delta Central,VES DZP + pump,Zone II,Unconfined,38.50,4.46E-04,1540.00,1.78E-02,,,,40.00,24.2–68m,8.50,,,Ofomola et al. 2024
+HYD-011,BH-023,Nsukwa pump-2,Delta Central,VES DZP,Zone II,Unconfined,22.40,2.59E-04,896.00,1.04E-02,,,,40.00,25.5–66m,9.20,,,Ofomola et al. 2024
+HYD-012,BH-028,Erho pump,Delta Central,Cooper-Jacob,Zone II,Unconfined,18.50,2.14E-04,740.00,8.56E-03,,,,40.00,15.8–65m,5.80,,,Anomohanran & Iserhien-Emekeme 2014
+HYD-013,BH-029,Erho pump 2,Delta Central,Cooper-Jacob,Zone II,Unconfined,21.20,2.46E-04,848.00,9.81E-03,,,,40.00,16.4–62m,6.40,,,Anomohanran & Iserhien-Emekeme 2014
+HYD-014,BH-030,Ogwashi-Asaba deep,Delta North,Pumping test,Zone III,Semi-confined,48.20,5.58E-04,7230.00,8.37E-02,3.53E-04,139.80,,150.00,35–180m,28.00,,,Amajor 1991 via Nwankwo 2023
+HYD-015,BH-031,Ogwashi-Asaba 2,Delta North,Pumping test,Zone III,Semi-confined,35.60,4.12E-04,5340.00,6.18E-02,1.07E-04,19.01,,150.00,32–165m,25.50,,,Amajor 1991 via Nwankwo 2023
+HYD-016,BH-038,Ugono-Abraka,Delta Central,Grain size + ERT,Zone II,Unconfined,138.20,1.60E-03,5528.00,6.40E-02,,,,40.00,35–100m,4.00,,,Ofomola et al. 2022
+HYD-017,BH-039,Ogbeje-Abraka,Delta Central,Grain size + ERT,Zone II,Unconfined,725.80,8.40E-03,29032.00,3.36E-01,,,,40.00,38–105m,3.80,,,Ofomola et al. 2022
+HYD-018,BH-013,Ndokwa regional,Delta Central,Grain size,Zone II,Unconfined,,2.50E-02,,,,,,,,,,,Anomohanran et al. 2017 inferred
+HYD-019,BH-044,Idumuje-Unor (est),Delta North,Estimated – k from facies,Zone II–III,Unconfined deep,200.00,2.31E-03,43000.00,4.98E-01,,,,215.00,18–230m,12.00,,,This study (k×b estimate)
+HYD-020,BH-040,Issele-Uku (est),Delta North,Estimated – k from facies,Zone II–III,Unconfined,150.00,1.74E-03,22500.00,2.60E-01,,,,150.00,30–190m,18.50,,,This study (k×b estimate)
+HYD-021,BH-045,Kwale (est),Delta Central,Estimated – k from facies,Zone II,Unconfined,250.00,2.89E-03,26250.00,3.04E-01,,,,105.00,12–117m,5.80,,,This study (k×b estimate)
+HYD-022,BH-046,Abraka-DS (est),Delta Central,Estimated – k from facies,Zone II,Unconfined,600.00,6.94E-03,54600.00,6.32E-01,,,,91.00,12–115m,4.20,,,This study (k×b – gravel dominant)
+HYD-023,BH-059,Forcados (est),Delta South,Estimated – k from facies,Zone II–III,Confined,25.00,2.89E-04,962.00,1.11E-02,,,,38.50,83–152m,2.50,,,This study (k×b – confined sand)
+"?  K=hydraulic conductivity; T=transmissivity; S=storativity; Sc=specific capacity. Sources: Amajor 1991; Akpoborie & Efobo 2014; Anomohanran 2014,2017,2021; Aweto & Akpoborie 2015; Ofomola et al. 2022,2024; Anomohanran & Iserhien-Emekeme 2014; Nwankwo et al. 2023.",,,,,,,,,,,,,,,,,,,
